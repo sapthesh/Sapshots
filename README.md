@@ -1,16 +1,12 @@
 
 # SapShots [![Heroku](https://heroku-badge.herokuapp.com/?app=sapshots&svg=1)] [![Build Status](https://img.shields.io/travis/vbauer/manet.svg)](https://travis-ci.org/vbauer/manet) [![Dependency Status](https://david-dm.org/vbauer/manet.svg)](https://david-dm.org/vbauer/manet) [![NPM](https://img.shields.io/npm/v/manet.svg)](https://www.npmjs.org/package/manet)
 
-> There is only one true thing: instantly paint what you see. When you've got it, you've got it. When you haven't, you begin again. All the rest is humbug.
+**SapShots** is a REST API server which allows capturing screenshots of websites using various parameters. It is a good way to make sure that your websites are responsive or to make thumbnails.
 
-**Manet** is a REST API server which allows capturing screenshots of websites using various parameters. It is a good way to make sure that your websites are responsive or to make thumbnails.
-
-**Manet** could use different engines to work: [SlimerJS](http://slimerjs.org) or [PhantomJs](http://phantomjs.org).
+**SapShots** could use different engines to work: [SlimerJS](http://slimerjs.org) or [PhantomJs](http://phantomjs.org).
 
 * **SlimerJS** runs on top of [Gecko](https://developer.mozilla.org/en-US/docs/Mozilla/Gecko) (the browser engine of [Mozilla Firefox](https://www.mozilla.org)) and [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey) (the JavaScript engine of Firefox).
 * **PhantomJS** runs on top of [WebKit](https://www.webkit.org) and [JavaScriptCore](http://trac.webkit.org/wiki/JavaScriptCore).
-
-*Project was named in honor of Édouard Manet, French painter (1832-1883). He was one of the first 19th-century artists to paint modern life, and a pivotal figure in the transition from Realism to Impressionism.*
 
 
 ## Main features
