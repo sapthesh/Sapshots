@@ -1,0 +1,74 @@
+{
+    "name": "manet",
+    "version": "0.4.23",
+    "description": "Website screenshot service powered by Node.js, SlimerJS and PhantomJS",
+    "license": "MIT",
+    "repository": "vbauer/manet",
+    "homepage": "https://github.com/vbauer/manet",
+    "bugs": "https://github.com/vbauer/manet/issues",
+    "main": "./src/runner.js",
+    "bin": {
+        "manet": "./bin/manet"
+    },
+    "author": {
+        "name": "Vladislav Bauer",
+        "email": "bauer.vlad@gmail.com",
+        "url": "https://github.com/vbauer"
+    },
+    "keywords": [
+        "screenshot",
+        "thumbnail",
+        "slimerjs",
+        "slimer",
+        "phantomjs",
+        "phantom",
+        "picture",
+        "image",
+        "website",
+        "screen",
+        "site",
+        "page",
+        "scr",
+        "service",
+        "server"
+    ],
+    "engines": {
+        "node": ">=8.0.0",
+        "npm": ">=6.11.3"
+    },
+    "scripts": {
+        "lint": "jshint src test example public/js/app.js",
+        "test": "mocha --exit",
+        "start": "./bin/manet"
+    },
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "cloud-env": "^0.2.3",
+        "express": "^4.17.1",
+        "fs-extra": "^8.1.0",
+        "joi": "^14.3.1",
+        "js-yaml": "^3.13.1",
+        "lodash": "^4.17.15",
+        "nconf": "^0.10.0",
+        "nocache": "^2.1.0",
+        "npm": "^6.4.1",
+        "passport": "^0.4.0",
+        "passport-http": "^0.3.0",
+        "qs": "^6.5.2",
+        "request": "^2.88.0",
+        "squirrel": "^1.0.0",
+        "url-pattern": "^1.0.3",
+        "winston": "^2.3.1"
+    },
+    "pluginDependencies": {
+        "imagemin": "^3.2.2",
+        "imagemin-gifsicle": "^4.2.0",
+        "imagemin-jpegtran": "^4.3.1",
+        "imagemin-optipng": "^4.3.0",
+        "imagemin-svgo": "^4.1.2"
+    },
+    "devDependencies": {
+        "jshint": "^2.10.2",
+        "mocha": "^6.2.0"
+    }
+}
