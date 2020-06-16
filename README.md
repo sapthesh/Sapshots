@@ -3,8 +3,6 @@
 
 > There is only one true thing: instantly paint what you see. When you've got it, you've got it. When you haven't, you begin again. All the rest is humbug.
 
-<img align="right" style="margin-left: 15px" width="300" height="360" title="Self-Portrait with Palette, 1879" src="misc/manet.jpg">
-
 **Manet** is a REST API server which allows capturing screenshots of websites using various parameters. It is a good way to make sure that your websites are responsive or to make thumbnails.
 
 **Manet** could use different engines to work: [SlimerJS](http://slimerjs.org) or [PhantomJs](http://phantomjs.org).
