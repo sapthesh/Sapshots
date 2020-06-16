@@ -1,5 +1,5 @@
 
-# SapShots [![Heroku](https://heroku-badge.herokuapp.com/?app=sapshots&svg=1)] [![Build Status](https://img.shields.io/travis/vbauer/manet.svg)](https://travis-ci.org/vbauer/manet) [![Dependency Status](https://david-dm.org/vbauer/manet.svg)](https://david-dm.org/vbauer/manet) [![NPM](https://img.shields.io/npm/v/manet.svg)](https://www.npmjs.org/package/manet)
+# SapShots [![Heroku](https://heroku-badge.herokuapp.com/?app=sapshots&svg=1)] [![Build Status](https://img.shields.io/travis/vbauer/manet.svg)](https://travis-ci.org/github/sapthesh/sapshots/) [![Dependency Status](https://david-dm.org/vbauer/manet.svg)](https://david-dm.org/vbauer/manet) [![NPM](https://img.shields.io/npm/v/manet.svg)](https://www.npmjs.org/package/manet)
 
 **SapShots** is a REST API server which allows capturing screenshots of websites using various parameters. It is a good way to make sure that your websites are responsive or to make thumbnails.
 
