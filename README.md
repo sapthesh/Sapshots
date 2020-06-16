@@ -1,5 +1,5 @@
 
-# Manet [![Heroku](https://heroku-badge.herokuapp.com/?app=manet&svg=1)](https://manet.herokuapp.com) [![Build Status](https://img.shields.io/travis/vbauer/manet.svg)](https://travis-ci.org/vbauer/manet) [![Dependency Status](https://david-dm.org/vbauer/manet.svg)](https://david-dm.org/vbauer/manet) [![NPM](https://img.shields.io/npm/v/manet.svg)](https://www.npmjs.org/package/manet)
+# SapShots [![Heroku](https://heroku-badge.herokuapp.com/?app=sapshots&svg=1)] [![Build Status](https://img.shields.io/travis/vbauer/manet.svg)](https://travis-ci.org/vbauer/manet) [![Dependency Status](https://david-dm.org/vbauer/manet.svg)](https://david-dm.org/vbauer/manet) [![NPM](https://img.shields.io/npm/v/manet.svg)](https://www.npmjs.org/package/manet)
 
 > There is only one true thing: instantly paint what you see. When you've got it, you've got it. When you haven't, you begin again. All the rest is humbug.
 
@@ -420,11 +420,11 @@ GET /?url=github.com&callback=http://localhost:8891
 Sandbox UI is available on "/" by direct GET request without `"url"` query parameter.
 It is a simple playground to build HTTP requests and try them.
 
-Demo instance is available on [Heroku](https://heroku.com): [https://manet.herokuapp.com](https://manet.herokuapp.com/)
+Demo instance is available on [Heroku](https://heroku.com): [https://sapshots.herokuapp.com](https://sapshots.herokuapp.com/)
 
 You can also use "Deploy to Heroku" button to create your own Manet instance on Heroku without leaving the web browser, and with little configuration.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vbauer/manet)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sapthesh/sapshots)
 
 
 ## Development
@@ -490,15 +490,12 @@ You need to create Heroku instance with as described in this documentation.
 * All [contributors](https://github.com/vbauer/manet/graphs/contributors) for their help and pull requests.
 
 
-## Self portrait
-
-One picture more than a thousand words:
-
-![](https://manet.herokuapp.com/?url=https%3A%2F%2Fgithub.com%2Fvbauer%2Fmanet&clipRect=955%2C15%2C995%2C686)
-
-
 ## License
 
 The MIT License (MIT)
 
 Copyright (c) 2014 Vladislav Bauer (see [LICENSE](LICENSE)).
+
+## Cloned From
+
+Manet (https://github.com/vbauer/manet)
