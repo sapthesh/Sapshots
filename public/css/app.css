@@ -2,7 +2,8 @@
 /* Custom theme */
 
 body {
-    font-family: Verdana, Geneva, sans-serif;
+    /*font-family: Verdana, Geneva, sans-serif;*/
+    font-family: 'Poppins', sans-serif;
 }
 
 .header, .main {
